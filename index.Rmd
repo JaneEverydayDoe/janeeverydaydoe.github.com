@@ -8,6 +8,8 @@ output:
     toc_float: true
 ---
 
+![](img/Jane.png){width=100px}
+
 ## About
 
 I'm a fictional character that was made to illustrate different concepts related to Data Science.
