@@ -13,20 +13,24 @@ output:
 
 ## About
 
-I'm a fictional character that was made to illustrate different concepts related to Data Science.
+I'm a fictional character that was made to illustrate different concepts related to Data Science. I'm interested in introducing the field of data science and teaching others how to do data science. Since I'm fictional, I don't have any projects to tell you about or interesting background to share, but if I did I'd add them here!
 
 ## Interests
 
 * R
-* Making websites
+* all things data!
+* teaching others
+
 
 ## Projects
 
-* This [website](https://github.com/JaneEverydayDoe/janeeverydaydoe.github.com) is my first project!
+Here, you'll include links to completed projects -- we'll discuss this in the next lesson!
 
 ## Profiles 
 
 * [GitHub](http://github.com/JaneEverydayDoe)
+* [LinkedIn](https://www.linkedin.com/in/jane-doe-41320a156/)
+* [Twitter](https://twitter.com/jane_everyday?lang=en)
 
 ![](http://ghchart.rshah.org/DA2536/JaneEverydayDoe.svg){width=400px}
 
