@@ -22,10 +22,6 @@ I'm a fictional character that was made to illustrate different concepts related
 * teaching others
 
 
-## Projects
-
-Here, you'll include links to completed projects -- we'll discuss this in the next lesson!
-
 ## Profiles 
 
 * [GitHub](http://github.com/JaneEverydayDoe)

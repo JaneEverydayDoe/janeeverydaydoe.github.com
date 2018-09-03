@@ -1,0 +1,14 @@
+---
+title: "Projects"
+output: html_document
+---
+
+### ATUS Project
+
+```{r, out.width = "200px", echo=FALSE}
+knitr::include_graphics("projects/activities.png")
+```
+
+[ATUS Survey Analysis](projects/ATUS_project.html)
+
+A brief description of what you did / what questions you answered could be included
