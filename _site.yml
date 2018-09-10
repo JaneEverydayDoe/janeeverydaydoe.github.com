@@ -1,9 +1,0 @@
-name: Jane Doe's Website
-output_dir: '.'
-navbar:
-  title: Jane Doe's Website
-  left:
-  - text: Home
-    href: index.html
-  - text: Projects
-    href: projects.html 
