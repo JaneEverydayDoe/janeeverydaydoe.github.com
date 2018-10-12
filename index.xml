@@ -103,35 +103,5 @@
 </description>
     </item>
     
-    <item>
-      <title>Spotify Analysis</title>
-      <link>/project/spotify_analysis/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/project/spotify_analysis/</guid>
-      <description>&lt;pre class=&#34;r&#34;&gt;&lt;code&gt;## client and secret are stored in this file
-load(&amp;quot;tok/token.rda&amp;quot;)
-
-Sys.setenv(SPOTIFY_CLIENT_ID = client)
-Sys.setenv(SPOTIFY_CLIENT_SECRET = secret)
-
-access_token &amp;lt;- get_spotify_access_token()
-# get_spotify_authorization_code()&lt;/code&gt;&lt;/pre&gt;
-&lt;div id=&#34;analysis-of-how-music-tastes-has-changed&#34; class=&#34;section level2&#34;&gt;
-&lt;h2&gt;Analysis of how music tastes has changed&lt;/h2&gt;
-&lt;p&gt;Notes:
-1. Make sure you locally store your client id and client secret so you don’t share them with others.
-2. Since you’re not pulling data from your our account but rather public data, the spotifyr package should work, i.e. we’re not going to have the problems we had before.
-3. More information about the package and how to create your spotify API access &lt;a href=&#34;https://github.com/charlie86/spotifyr&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
-&lt;p&gt;The following code chunk can be used to get all the songs by an artist. The output is a dataframe of songs, including song names, album names, album release date, album popularity, song popularity, danceability, energy, loudness, mode, speechiness, instrumentalness, livenss, acousticness, valence, tempo, and duration.&lt;/p&gt;
-&lt;pre class=&#34;r&#34;&gt;&lt;code&gt;drake_songs &amp;lt;- get_artist_audio_features(&amp;#39;Drake&amp;#39;)&lt;/code&gt;&lt;/pre&gt;
-&lt;p&gt;Here’s the question that you can answer but you’re also welcome to come up with your own:&lt;/p&gt;
-&lt;p&gt;If you look at the billboard 100 for the past 50 years, how have songs changed in terms of danceability, ebergy, loudness, mode, speechiness, instumentalness, liveness, tmepo, etc. You can average each attrbibute across the top 100 songs in each year.&lt;/p&gt;
-&lt;p&gt;You can have mutliple panel line charts or one graph with multiple lines for each of the attributes above. On the Y axis you have the attributes and on the X axis you have the time.&lt;/p&gt;
-&lt;p&gt;You can get the billboard 100 data &lt;a href=&#34;https://www.kaggle.com/rakannimer/billboard-lyrics&#34;&gt;here&lt;/a&gt;. The data is available from 1964-2015.&lt;/p&gt;
-&lt;/div&gt;
-</description>
-    </item>
-    
   </channel>
 </rss>
