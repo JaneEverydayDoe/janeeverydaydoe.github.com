@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>admin on Jane Doe</title>
+    <link>/authors/admin/</link>
+    <description>Recent content in admin on Jane Doe</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="/authors/admin/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title></title>
+      <link>/author/admin/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/author/admin/</guid>
+      <description>Jane Doe is a fictional character that was made to illustrate different concepts related to data science. She&amp;rsquo;s used throughout the Chromebook Data Science Course Set. She&amp;rsquo;s particularly interested in both introducing the field of data science to anyone and everyone and teaching others how to do data science. Since she&amp;rsquo;s fictional, she doesn&amp;rsquo;t have any cool projects to tell you about or some interesting background information or interests to share, but if she did, she&amp;rsquo;d add them here.</description>
+    </item>
+    
+  </channel>
+</rss>

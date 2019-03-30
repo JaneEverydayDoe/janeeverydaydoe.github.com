@@ -1,226 +1,180 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
-    
     <url>
     
-      <loc>/project/atus-survey-data/</loc>
-      <lastmod>2018-09-11T00:00:00+00:00</lastmod>
+      <loc>/talk/example/</loc>
+      <lastmod>2030-06-01T13:00:00+00:00</lastmod>
     </url>
-    
   
+    <url>
     
+      <loc>/project/atus-survey-analysis/</loc>
+      <lastmod>2019-03-30T00:00:00+00:00</lastmod>
+    </url>
+  
+    <url>
+    
+      <loc>/tutorial/example/</loc>
+      <lastmod>2018-09-09T00:00:00+00:00</lastmod>
+    </url>
+  
+    <url>
+    
+      <loc>/tutorial/</loc>
+      <lastmod>2018-09-09T00:00:00+00:00</lastmod>
+    </url>
+  
     <url>
     
       <loc>/privacy/</loc>
       <lastmod>2018-06-28T00:00:00+00:00</lastmod>
     </url>
-    
   
-    
     <url>
     
-      <loc>/talk/example-talk/</loc>
-      <lastmod>2017-01-01T00:00:00+00:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>/post/</loc>
-      <lastmod>2017-01-01T00:00:00+00:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>/publication/</loc>
-      <lastmod>2017-01-01T00:00:00+00:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>/talk/</loc>
-      <lastmod>2017-01-01T00:00:00+00:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>/post/2015-07-23-r-rmarkdown/</loc>
-      <lastmod>2015-09-05T00:00:00+00:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>/publication/person-re-identification/</loc>
+      <loc>/publication/person-re-id/</loc>
       <lastmod>2015-09-01T00:00:00+00:00</lastmod>
     </url>
-    
   
+    <url>
     
+      <loc>/post/r-markdown/</loc>
+      <lastmod>2015-07-23T00:00:00+00:00</lastmod>
+    </url>
+  
     <url>
     
       <loc>/publication/clothing-search/</loc>
       <lastmod>2013-07-01T00:00:00+00:00</lastmod>
     </url>
-    
   
+    <url>
     
+      <loc>/author/admin/</loc>
+    </url>
+  
     <url>
     
       <loc>/publication_types/1/</loc>
       <lastmod>2013-07-01T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
-    
   
-    
     <url>
     
       <loc>/publication_types/2/</loc>
       <lastmod>2015-09-01T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
-    
   
-    
     <url>
     
-      <loc>/tags/analysis/</loc>
-      <lastmod>2018-09-11T00:00:00+00:00</lastmod>
+      <loc>/author/</loc>
       <priority>0</priority>
     </url>
-    
   
+    <url>
     
+      <loc>/authors/</loc>
+      <priority>0</priority>
+    </url>
+  
     <url>
     
       <loc>/categories/</loc>
       <priority>0</priority>
     </url>
-    
   
-    
     <url>
     
-      <loc>/categories/data-analysis/</loc>
-      <lastmod>2018-09-11T00:00:00+00:00</lastmod>
+      <loc>/authors/ga-cushen/</loc>
+      <lastmod>2015-09-01T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
-    
   
-    
-    <url>
-    
-      <loc>/tags/dataviz/</loc>
-      <lastmod>2018-09-11T00:00:00+00:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
     <url>
     
       <loc>/</loc>
-      <lastmod>2017-10-15T00:00:00+00:00</lastmod>
+      <lastmod>2030-06-01T13:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
-    
   
-    
     <url>
     
-      <loc>/tags/plot/</loc>
-      <lastmod>2015-09-05T00:00:00+00:00</lastmod>
+      <loc>/authors/ms-nixon/</loc>
+      <lastmod>2013-07-01T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
-    
   
+    <url>
     
+      <loc>/post/</loc>
+      <lastmod>2015-07-23T00:00:00+00:00</lastmod>
+    </url>
+  
     <url>
     
       <loc>/project/</loc>
-      <lastmod>2018-09-11T00:00:00+00:00</lastmod>
+      <lastmod>2019-03-30T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
-    
   
-    
     <url>
     
       <loc>/publication_types/</loc>
       <lastmod>2013-07-01T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
-    
   
+    <url>
     
+      <loc>/publication/</loc>
+      <lastmod>2015-09-01T00:00:00+00:00</lastmod>
+    </url>
+  
     <url>
     
       <loc>/tags/r/</loc>
-      <lastmod>2018-09-11T00:00:00+00:00</lastmod>
+      <lastmod>2019-03-30T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
-    
   
-    
     <url>
     
-      <loc>/categories/r/</loc>
-      <lastmod>2018-09-11T00:00:00+00:00</lastmod>
+      <loc>/talk/</loc>
+      <lastmod>2030-06-01T13:00:00+00:00</lastmod>
+    </url>
+  
+    <url>
+    
+      <loc>/slides/</loc>
       <priority>0</priority>
     </url>
-    
   
-    
     <url>
     
-      <loc>/tags/r-markdown/</loc>
-      <lastmod>2015-09-05T00:00:00+00:00</lastmod>
-      <priority>0</priority>
+      <loc>/slides/example-slides/</loc>
     </url>
-    
   
-    
-    <url>
-    
-      <loc>/tags/regression/</loc>
-      <lastmod>2015-09-05T00:00:00+00:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>/project/spotify_analysis/</loc>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>/categories/survey-data/</loc>
-      <lastmod>2018-09-11T00:00:00+00:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
     <url>
     
       <loc>/tags/</loc>
-      <lastmod>2018-09-11T00:00:00+00:00</lastmod>
+      <lastmod>2019-03-30T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
+  
+    <url>
     
+      <loc>/authors/admin/</loc>
+      <priority>0</priority>
+    </url>
+  
+    <url>
+    
+      <loc>/categories/data-analysis/</loc>
+      <lastmod>2019-03-30T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
   
 </urlset>

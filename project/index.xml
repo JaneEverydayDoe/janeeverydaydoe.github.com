@@ -6,30 +6,18 @@
     <description>Recent content in Projects on Jane Doe</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>&amp;copy; 2018</copyright>
-    <lastBuildDate>Tue, 11 Sep 2018 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 30 Mar 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/project/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>ATUS Survey Data</title>
-      <link>/project/atus-survey-data/</link>
-      <pubDate>Tue, 11 Sep 2018 00:00:00 +0000</pubDate>
+      <title>ATUS Survey Analysis</title>
+      <link>/project/atus-survey-analysis/</link>
+      <pubDate>Sat, 30 Mar 2019 00:00:00 +0000</pubDate>
       
-      <guid>/project/atus-survey-data/</guid>
-      <description>Intro &amp;amp; Background  Data Here you would explain where the data came from and include the URL to the data.
-You would also include a code chunk with code to read the data into R.
-# code for how to read the data into R  Exploratory Data Analysis  Analysis Approach  Results Results 1  Results 2  Results 3   Conclusion  </description>
-    </item>
-    
-    <item>
-      <title>Spotify Analysis</title>
-      <link>/project/spotify_analysis/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/project/spotify_analysis/</guid>
-      <description>## client and secret are stored in this file load(&amp;quot;tok/token.rda&amp;quot;) Sys.setenv(SPOTIFY_CLIENT_ID = client) Sys.setenv(SPOTIFY_CLIENT_SECRET = secret) access_token &amp;lt;- get_spotify_access_token() # get_spotify_authorization_code() Analysis of how music tastes has changed Notes: 1. Make sure you locally store your client id and client secret so you don’t share them with others. 2. Since you’re not pulling data from your our account but rather public data, the spotifyr package should work, i.e. we’re not going to have the problems we had before.</description>
+      <guid>/project/atus-survey-analysis/</guid>
+      <description></description>
     </item>
     
   </channel>
